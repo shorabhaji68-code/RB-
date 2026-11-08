@@ -1,0 +1,6 @@
+{
+  "name": "BeamCraft - Laser Cutting & Fabrication Catalog",
+  "description": "High-precision laser cutting & CNC metal fabrication catalog app with live CAD specs, material configurator, instant quote RFQ, and admin management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
